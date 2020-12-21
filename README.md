@@ -1,4 +1,4 @@
-# dns-baselines
+# Provided by Securd
 
 The following public repository contains DNS traffic baselines observed by Securd. Each folder will contain the context of the baseline. 
 
