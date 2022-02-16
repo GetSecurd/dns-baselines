@@ -15,4 +15,4 @@ Please follow us on LinkedIn: https://www.linkedin.com/company/digitalstakeout-i
 
 Learn more about DigitalStakeout Securd at https://securd.digitalstakeout.com. 
 
-© 2022 DigitalStakeout Inc. All Rights Reserved.
+© 2022 DigitalStakeout Inc. All Rights Reserved. https://www.digitalstakeout.com.
