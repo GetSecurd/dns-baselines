@@ -1,4 +1,4 @@
-# Securd DNS Baselines
+# DigitalStakeout Securd DNS Baselines
 
 The following public repository contains DNS traffic baselines observed by DigitalStakeout Securd. Each folder will contain the context of the baseline. 
 
