@@ -13,6 +13,6 @@ The data provided here is "as-is" and is subject to change at any time. All comm
 
 Please follow us on LinkedIn: https://www.linkedin.com/company/digitalstakeout-inc.
 
-Learn more about DigitalStakeout Securd at https://www.digitalstakeout.com/platform/digitalstakeout-securd. 
+Learn more about DigitalStakeout Securd at https://securd.digitalstakeout.com. 
 
 © 2022 DigitalStakeout Inc. All Rights Reserved.
